@@ -1,16 +1,5 @@
-/*
- * Carro.java
- *
- * Created on 20 de Fevereiro de 2006, 10:55
- *
- * To change this template, choose Tools | Template Manager
- * and open the template in the editor.
- */
 import java.util.concurrent.*;
-/**
- *
- * @author Frank
- */
+
 public class Carro extends Thread {
     private static Semaphore estacionamento = new Semaphore(10);
     
