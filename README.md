@@ -27,3 +27,10 @@ public class SynchronizedLinkedList {
 }
 ```
 
+# Atividade Prática
+* Utilizar o repositório com o nome: SD-ControleConcorrenciaJava;
+* Baixar e realizar o upload dos arquivos do repositório:  SD-Semaforo;
+* Compilar os dois programas .java;
+* Executar os dois programas gerando uma log, se executado mais de uma vez não pode sobrescrever;
+* Realize o Commit de todos os arquivos para o seu  reportório SD-ControleConcorrenciaJava  juntamente com os prints de todas as execuções;
+* Realizar as analises de comparação do código do programa Carro.java e CarroLock.java e incluir o texto da análise no README.md do seu repositório D-ControleConcorrenciaJava. 
