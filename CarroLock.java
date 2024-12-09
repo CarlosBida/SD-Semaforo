@@ -1,7 +1,7 @@
-import java.util.concurrent.*;
+import java.util.concurrent.locks.*;
 
 public class CarroLock extends Thread {
-  private Lock estacionamento = new ReentrantLock();;
+  private Lock estacionamento = new ReentrantLock();
   
   public CarroLock(String nome) { 
     super(nome); 
